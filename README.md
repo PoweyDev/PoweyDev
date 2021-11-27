@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoweyDev
-- 👀 I’m interested in Coding and Scripting
+- 👀 I’m interested in Coding and Skripting
 - 🌱 I’m currently learning Java Skript and CPP
 - 💞️ Currently working on a PSVR Tracking software, for free!
 - 📫 Powey#1187
